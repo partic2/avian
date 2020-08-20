@@ -1,7 +1,7 @@
 Avian - A lightweight Java Virtual Machine (JVM)
 ================================================
 
-**PLEASE NOTE: This project is not currently being developed, maintained, or supported.  Feel free to use and/or fork it, but any issues filed here will probably be ignored.**
+This project is a fork of https://github.com/ReadyTalk/avian. But welcome pull request with fewer code review, So I don't guarantee evenry commits work correctly.
 
 [![Build Status](https://travis-ci.org/ReadyTalk/avian.png?branch=master)](https://travis-ci.org/ReadyTalk/avian)
 
